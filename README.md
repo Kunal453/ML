@@ -1,6 +1,6 @@
 # Medical-Insurance-Cost-Predictor
 This is a medical insurance cost predictor machine learning project using Random forest regressor
-
+In this project we use random forest regressors it give better accuracy result.
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
 ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
